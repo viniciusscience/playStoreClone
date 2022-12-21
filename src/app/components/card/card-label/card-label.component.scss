@@ -1,0 +1,19 @@
+.label_container{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom:90px;
+  right:0;
+
+}
+.content {
+  background-color: #0d0d0dc2;
+  display: flex;
+  align-items: center;
+  height: 30px;
+  color: white;
+  font-size: 12px;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+  padding: 0px 50px;
+}
